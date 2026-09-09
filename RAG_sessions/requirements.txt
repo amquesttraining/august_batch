@@ -1,0 +1,3 @@
+llama-index==0.14.23
+qdrant-client==1.18.0
+nest-asyncio==1.6.0
